@@ -19,7 +19,7 @@
 
 ### 1. Use this Repo as an Astro Project Template
 
-- this project is hosted in cloudflare page. Find more about [**https://developers.cloudflare.com/pages/**](cloudflare page) here.
+- this project is hosted in cloudflare page. Find more about cloudflare page here. 👉 **https://developers.cloudflare.com/pages/**
 
 ```bash
 npx astro add cloudflare
