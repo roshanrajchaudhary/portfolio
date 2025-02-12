@@ -19,17 +19,15 @@
 
 ### 1. Use this Repo as an Astro Project Template
 
-- I use [pnpm](https://pnpm.io/installation) as my package manager.
+- this project is hosted in cloudflare page. Find more about [**https://developers.cloudflare.com/pages/**](cloudflare page) here.
 
 ```bash
-# Enable pnpm on MacOS, WSL & Linux:
-corepack enable
-corepack prepare pnpm@latest --activate
+npx astro add cloudflare
 ```
 
 # Initialize the project
 ```bash
-pnpm create astro@latest -- --template Smilesharks/dev-portfolio
+npm create astro@latest -- --template Smilesharks/dev-portfolio
 ```
 
 ### 2. Add Your Content:
@@ -38,9 +36,11 @@ Edit the `cv.json` file to create your own printable Portfolio/CV.
 
 ### 3. Launch the Development Server:
 
+Edit the `cv.json` file to create your own printable Portfolio/CV.
+
 ```bash
 # Enjoy the results
-pnpm dev
+npm dev
 ```
 1. Open [**http://localhost:4321**](http://localhost:4321/) in your browser to view the result 🚀
 
@@ -59,3 +59,7 @@ Change the data-theme of `cv.json` and choose one of the colour themes defined i
 CV JSON schema from [**jsonresume.org**](https://jsonresume.org/schema/)
 
 Based on [**Bartosz Jarocki - Print-friendly, minimalist CV page**](https://github.com/BartoszJarocki/cv) and [**Miguel Ángel Durán - minimalist-portfolio-json**](https://github.com/midudev/minimalist-portfolio-json)
+
+## All the icons are in SVG. Find more free svg here. [**https://freesvgicons.com/**](https://freesvgicons.com/)
+
+Save the SVG in ./src/icons/YourIconsName.astro and import it in the file you want to use the svg.
