@@ -16,15 +16,14 @@
       "region": "Nepal"
     },
     "profiles": [
-      
       {
         "network": "X",
-        "username": "john-doe",
+        "username": "roshan",
         "url": "https://x.com/RoshanRajChau"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
+        "username": "roshanrajchaudhary",
         "url": "https://github.com/roshanrajchaudhary"
       }
     ]
@@ -43,17 +42,9 @@
       "achievements": [
         "Successfully coordinated diverse projects, ensuring excellent outcomes by maintaining a client-first mindset and proficient remote teamwork.",
         "Received numerous positive testimonials and referrals, contributing to a growing client base."
-        
       ],
 
-      "skills": [
-        "CSS",
-        "Tailwind",
-        "React",
-        "Next.js",
-        "MySQL"
-        
-      ]
+      "skills": ["CSS", "Tailwind", "React", "Next.js", "MySQL"]
     },
     {
       "name": "Flora Services",
@@ -117,9 +108,7 @@
       "startDate": "2021-01-01",
       "endDate": "2022-01-01",
       "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
+      "highlights": ["Awarded 'Volunteer of the Month'"]
     }
   ],
   "education": [
@@ -131,10 +120,7 @@
       "startDate": "2019-09-01",
       "endDate": "2021-12-17",
       "score": "3.41",
-      "courses": [
-        "230 - COMPUTER SCIENCE",
-        "908 - BUSINESS MATHEMATICS"
-      ]
+      "courses": ["230 - COMPUTER SCIENCE", "908 - BUSINESS MATHEMATICS"]
     },
     {
       "institution": "Blue Bird School",
@@ -150,25 +136,17 @@
       ]
     }
   ],
-  
+
   "skills": [
-    
     {
       "name": "HTML",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
+      "keywords": ["Web Development", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
     },
     {
       "name": "Tailwind",
@@ -183,12 +161,7 @@
     {
       "name": "JavaScript",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "TypeScript",
@@ -203,61 +176,32 @@
     {
       "name": "Node",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
     },
     {
       "name": "MySQL",
       "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
     },
     {
       "name": "MongoDB",
-      "level": "Intermediate",      
-      "keywords": [
-        "Databases",
-        "NoSQL",
-        "Data Storage",
-        "Backend"
-      ]
+      "level": "Intermediate",
+      "keywords": ["Databases", "NoSQL", "Data Storage", "Backend"]
     },
     {
       "name": "Git",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
       "name": "GitHub",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
     },
     {
       "name": "React",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Next.js",
@@ -280,139 +224,72 @@
         "Performance"
       ]
     },
-    
+
     {
       "name": "Svelt",
       "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Framework",
-        "UI"
-      ]
+      "keywords": ["Web Development", "Frontend", "JavaScript Framework", "UI"]
     },
     {
       "name": "CSharp",
       "level": "Intermediate",
-      "keywords": [
-        "Programming",
-        "OOP",
-        "Algorithms",
-        "Data Structures"
-      ]
+      "keywords": ["Programming", "OOP", "Algorithms", "Data Structures"]
     },
     {
       "name": "Java",
       "level": "Intermediate",
-      "keywords": [
-        "Programming",
-        "OOP",
-        "Algorithms",
-        "Data Structures"
-      ]
+      "keywords": ["Programming", "OOP", "Algorithms", "Data Structures"]
     },
     {
       "name": "Figma",
       "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
+      "keywords": ["Design", "UI"]
     },
     {
       "name": "Gitlab",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
       "name": "Unity",
       "level": "Intermediate",
-      "keywords": [
-        "Game Development",
-        "3D",
-        "2D",
-        "C#",
-        "Scripting"
-      ]
+      "keywords": ["Game Development", "3D", "2D", "C#", "Scripting"]
     },
     {
       "name": "Godot",
       "level": "Intermediate",
-      "keywords": [
-        "Game Development",
-        "2D",
-        "3D",
-        "GDScript",
-        "Scripting"
-      ]
+      "keywords": ["Game Development", "2D", "3D", "GDScript", "Scripting"]
     },
     {
       "name": "Unreal",
       "level": "Intermediate",
-      "keywords": [
-        "Game Development",
-        "3D",
-        "Blueprints",
-        "C++",
-        "Scripting"
-      ]
+      "keywords": ["Game Development", "3D", "Blueprints", "C++", "Scripting"]
     },
     {
       "name": "Blender",
       "level": "Intermediate",
-      "keywords": [
-        "3D Modeling",
-        "Animation",
-        "Texturing",
-        "Rigging"
-      ]
+      "keywords": ["3D Modeling", "Animation", "Texturing", "Rigging"]
     },
     {
       "name": "Krita",
       "level": "Intermediate",
-      "keywords": [
-        "Digital Art",
-        "Drawing",
-        "Painting",
-        "Illustration"
-      ]
+      "keywords": ["Digital Art", "Drawing", "Painting", "Illustration"]
     },
     {
       "name": "Netlify",
       "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Hosting",
-        "CI/CD",
-        "Deployment"
-      ] 
+      "keywords": ["Web Development", "Hosting", "CI/CD", "Deployment"]
     },
     {
       "name": "Vercel",
       "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Hosting",
-        "CI/CD",
-        "Deployment"
-      ]
+      "keywords": ["Web Development", "Hosting", "CI/CD", "Deployment"]
     },
     {
       "name": "Cloudflare",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "CDN",
-        "DNS",
-        "Security"
-      ]
+      "keywords": ["Web Development", "CDN", "DNS", "Security"]
     }
-    
-
   ],
   "languages": [
     {
@@ -427,10 +304,7 @@
   "interests": [
     {
       "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
+      "keywords": ["AI", "Blockchain"]
     }
   ],
   "references": [
