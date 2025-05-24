@@ -324,6 +324,18 @@
         "Contact page with a form for inquiries."
       ],
       "url": "https://costellotestnet.netlify.app/"
+    },
+    {
+      "name": "Personal Portfolio & Blog",
+      "isActive": true,
+      "description": "A modern, responsive portfolio website and blog built with Astro.",
+      "highlights": [
+        "Built with Astro and Tailwind CSS for a modern look",
+
+        "Interactive blog section",
+        "Newsletter integration for staying connected with visitors"
+      ],
+      "url": "https://agentnukeyt.com/"
     }
   ]
 }
